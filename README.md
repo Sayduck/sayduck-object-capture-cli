@@ -16,9 +16,9 @@ How to compile the cli:
 - Click on the input picture to open the input folder
 - Click on the output picture to download the USDZ
 
-| name              | # inputs | Input                                                                              | Output                                                                                     | Note                         |
-| ----------------- | -------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- |
-| Gargoyle          | 23       | [![Input](Datasets/gargoyle/input.jpg)](Datasets/gargoyle/input)                   | [![Output](Datasets/gargoyle/output.jpg)](Datasets/gargoyle/output.usdz)                   | Very very poor quality input |
-| Gnome             | 27       | [![Input](Datasets/gnome/input.jpg)](Datasets/gnome/input)                         | [![Output](Datasets/gnome/output.jpg)](Datasets/gnome/output.usdz)                         |
-| Teapot            | 26       | [![Input](Datasets/teapot/input.jpg)](Datasets/teapot/input)                       | [![Output](Datasets/teapot/output.jpg)](Datasets/teapot/output.usdz)                       |
-| Woodland Squirrel | 20       | [![Input](Datasets/woodland-squirrel/input.jpg)](Datasets/woodland-squirrel/input) | [![Output](Datasets/woodland-squirrel/output.jpg)](Datasets/woodland-squirrel/output.usdz) |
+| name              | # inputs | Input                                                                              | Output                                                                                     | Note                                          |
+| ----------------- | -------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| Gargoyle          | 23       | [![Input](Datasets/gargoyle/input.jpg)](Datasets/gargoyle/input)                   | [![Output](Datasets/gargoyle/output.jpg)](Datasets/gargoyle/output.usdz)                   | Very very poor quality input                  |
+| Gnome             | 27       | [![Input](Datasets/gnome/input.jpg)](Datasets/gnome/input)                         | [![Output](Datasets/gnome/output.jpg)](Datasets/gnome/output.usdz)                         | [source=](http://zhuoliang.me/meshrecon.html) |
+| Teapot            | 26       | [![Input](Datasets/teapot/input.jpg)](Datasets/teapot/input)                       | [![Output](Datasets/teapot/output.jpg)](Datasets/teapot/output.usdz)                       | [source=](http://zhuoliang.me/meshrecon.html) |
+| Woodland Squirrel | 20       | [![Input](Datasets/woodland-squirrel/input.jpg)](Datasets/woodland-squirrel/input) | [![Output](Datasets/woodland-squirrel/output.jpg)](Datasets/woodland-squirrel/output.usdz) | [source=](http://zhuoliang.me/meshrecon.html) |
